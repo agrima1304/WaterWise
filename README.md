@@ -6,7 +6,7 @@ Team:
 - Isha Selvakumaran, K23064625
 - Karishma Kaur, K23096668
 
-Project:
+Project: https://www.figma.com/file/W9oxkgkz52ffC9YcWXCEgV/Water-usage-tracker?type=design&node-id=0%3A1&mode=design&t=KH2YjNsKcMkAZoR0-1
 
 We have created a website that helps users track their household water usage, as well as inform them of their water wastage as well as carbon emissions. 
 
